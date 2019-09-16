@@ -1,5 +1,5 @@
 def addition(4, 5)
-Math.
+
 end
 
 def subtraction(10, 5)
